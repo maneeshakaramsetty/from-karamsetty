@@ -8,3 +8,9 @@ ____________________
 1. Biryani
 2. Sitaphal rabdi
 3. Pappu
+
+# Nearby visiting places
+* Durgam cheruv
+* Zoo
+* Shilparamam
+
