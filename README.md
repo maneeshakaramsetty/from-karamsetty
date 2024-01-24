@@ -24,3 +24,10 @@ Below mentioned in table are my book recommendations
 | Family life | Revenge of mickey | Adkin |
 | Cooking | Cooking with mushrooms | Brady |
 | Computers | E-Business the easy way | Sam |
+__________________
+# My Favourite quotes
+>*" Opportunities don't happen, you create them "*
+>-  *John*
+
+>*" You cannot change the people around you, but you can change the people you choose to be around "*
+>- *Rishil*
