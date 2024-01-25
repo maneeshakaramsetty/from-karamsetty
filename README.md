@@ -31,3 +31,10 @@ __________________
 
 >*" You cannot change the people around you, but you can change the people you choose to be around "*
 >- *Rishil*
+______________
+# Code Fencing
+###### JavaScript snippet to count the occurrences of a value in an array.
+```
+const countOccurrences = (arr, val) => arr.reduce((a, v) => (v === val ? a + 1 : a), 0);
+```
+[Code snippet link](https://code.pieces.app/collections/javascript)
